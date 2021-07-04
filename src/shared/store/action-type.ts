@@ -1,0 +1,2 @@
+export const SET_PLAYER = 'SET_PLAYER';
+export const UPDATE_PLAYER_BOARD = 'UPDATE_PLAYER_BOARD';
