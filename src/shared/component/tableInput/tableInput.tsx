@@ -1,20 +1,5 @@
 import { Component } from "react";
-import { connect } from "react-redux";
-import { ThunkDispatch } from "redux-thunk";
-import { Action, State } from "../../interface";
 import { StarIcon } from "../icon/icon";
-
-// interface MapStateProps {
-//     playerBoard: any
-// }
-
-// interface DispatchProps {
-// }
-
-// interface PropsType extends MapStateProps, DispatchProps {
-//     player: number;
-//     playerInput: any;
-// }
 
 interface PropsType {
     player: number;
